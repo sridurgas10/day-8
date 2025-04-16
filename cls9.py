@@ -1,4 +1,5 @@
-class Movie:
+### Task 9:
+#Create a `Movie` class and override `__str__` to return formatted movie info.class Movie:
     def __init__(self,moviename,showtime):
         self.moviename=moviename
         self.showtime=showtime
