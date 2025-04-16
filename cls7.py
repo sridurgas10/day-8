@@ -1,6 +1,8 @@
+#Task 6:
+#Create a `BankAccount` class that has deposit and withdraw methods with balance check.
 class Student:
     def __init__(self,marks):
-        #self.name=name
+        
         self._marks=marks
 
     def getmarks(self):
