@@ -1,3 +1,5 @@
+# Task 1:
+#Create a `Car` class with attributes: brand, model, and year. Add a method to display car details.
 class Car:
     def __init__(self,model,brand,year):
         self.model=model
